@@ -1,0 +1,7 @@
+add_subdirectory(socketTest)
+add_subdirectory(transportClient)
+add_subdirectory(transportServer)
+add_subdirectory(socketClient)
+add_subdirectory(NBufferVoid)
+add_subdirectory(protocol)
+add_subdirectory(multiServer)

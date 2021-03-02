@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libtransport.a  CMakeFiles/transport.dir/NioBase.cpp.o CMakeFiles/transport.dir/NioVoid.cpp.o CMakeFiles/transport.dir/bufferTransport.cpp.o CMakeFiles/transport.dir/csocket.cpp.o CMakeFiles/transport.dir/socketBase.cpp.o CMakeFiles/transport.dir/transport.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libtransport.a

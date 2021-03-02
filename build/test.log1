@@ -1,0 +1,136 @@
+1610894102733|[INFO]: {reset_clear}: NBuffertransport build a logHeader
+1610894102734|[INFO]: {reset_clear}: current wCur: [0], rBegin: [100], rEnd: [1024]
+1610894102734|[INFO]: {reset_clear}: reset_clearNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610894102734|[INFO]: {readTaste}: NBuffertransport build a logHeader
+1610894102734|[INFO]: {readTaste}: current wCur: [0], rBegin: [100], rEnd: [1024]
+1610894102734|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610894102734|[INFO]: {readTaste}: current wCur: [0], rBegin: [100], rEnd: [1024]
+1610894102734|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610894102734|[INFO]: {readTaste}: current wCur: [0], rBegin: [200], rEnd: [1024]
+1610894102734|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610894102734|[INFO]: {readTaste}: current wCur: [0], rBegin: [300], rEnd: [1024]
+1610894102734|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610894102734|[INFO]: {readTaste}: current wCur: [0], rBegin: [400], rEnd: [1024]
+1610894102734|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610894102734|[INFO]: {readTaste}: current wCur: [0], rBegin: [500], rEnd: [1024]
+1610894102734|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610894102734|[INFO]: {readTaste}: current wCur: [0], rBegin: [600], rEnd: [1024]
+1610894102734|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610894102734|[INFO]: {readTaste}: current wCur: [0], rBegin: [700], rEnd: [1024]
+1610894102734|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610894102734|[INFO]: {readTaste}: current wCur: [0], rBegin: [800], rEnd: [1024]
+1610894102734|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610894102734|[INFO]: {readTaste}: current wCur: [0], rBegin: [900], rEnd: [1024]
+1610894102734|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610894102734|[INFO]: {readTaste}: current wCur: [0], rBegin: [1000], rEnd: [1024]
+1610894102734|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610894102734|[INFO]: {readTaste}: current wCur: [0], rBegin: [1100], rEnd: [2024]
+1610894102734|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaa1024aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610894102734|[INFO]: {readTaste}: current wCur: [0], rBegin: [1025], rEnd: [2048]
+1610894102734|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa1024a], data len: 1025
+1610894102735|[INFO]: {writeTaste}: NBuffertransport build a logHeader
+1610205573800|[INFO]: {reset_clear}: NBuffertransport build a logHeader
+1610205573800|[INFO]: {reset_clear}: current wCur: [0], rBegin: [100], rEnd: [1024]
+1610205573801|[INFO]: {reset_clear}: reset_clearNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610205573801|[INFO]: {readTaste}: NBuffertransport build a logHeader
+1610205573801|[INFO]: {readTaste}: current wCur: [0], rBegin: [100], rEnd: [1024]
+1610205573801|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610205573801|[INFO]: {readTaste}: current wCur: [0], rBegin: [100], rEnd: [1024]
+1610205573801|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610205573801|[INFO]: {readTaste}: current wCur: [0], rBegin: [200], rEnd: [1024]
+1610205573801|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610205573801|[INFO]: {readTaste}: current wCur: [0], rBegin: [300], rEnd: [1024]
+1610205573801|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610205573801|[INFO]: {readTaste}: current wCur: [0], rBegin: [400], rEnd: [1024]
+1610205573801|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610205573801|[INFO]: {readTaste}: current wCur: [0], rBegin: [500], rEnd: [1024]
+1610205573801|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610205573801|[INFO]: {readTaste}: current wCur: [0], rBegin: [600], rEnd: [1024]
+1610205573801|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610205573801|[INFO]: {readTaste}: current wCur: [0], rBegin: [700], rEnd: [1024]
+1610205573801|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610205573801|[INFO]: {readTaste}: current wCur: [0], rBegin: [800], rEnd: [1024]
+1610205573801|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610205573801|[INFO]: {readTaste}: current wCur: [0], rBegin: [900], rEnd: [1024]
+1610205573801|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610205573801|[INFO]: {readTaste}: current wCur: [0], rBegin: [1000], rEnd: [1024]
+1610205573801|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610205573801|[INFO]: {readTaste}: current wCur: [0], rBegin: [1100], rEnd: [2024]
+1610205573801|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaa1024aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100
+1610205573801|[INFO]: {readTaste}: current wCur: [0], rBegin: [1025], rEnd: [2048]
+1610205573801|[INFO]: {readTaste}: readTasteNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa1024a], data len: 1025
+1610205573801|[INFO]: {writeTaste}: NBuffertransport build a logHeader
+1610546319107|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610546319107|[INFO]: {default-line}: current wCur: [0], rBegin: [14], rEnd: [14]
+1610546319107|[INFO]: {default-line}: default-lineNBuffertransport read data :[client message], data len: 14
+1610546319108|[INFO]: {default-line}: current wCur: [0], rBegin: [18], rEnd: [18]
+1610546319108|[INFO]: {default-line}: default-lineNBuffertransport read data :[
+   ], data len: 4
+1610546372552|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610546372552|[INFO]: {default-line}: current wCur: [0], rBegin: [14], rEnd: [14]
+1610546372552|[INFO]: {default-line}: default-lineNBuffertransport read data :[client message], data len: 14
+1610546372552|[INFO]: {default-line}: current wCur: [0], rBegin: [18], rEnd: [18]
+1610546372552|[INFO]: {default-line}: default-lineNBuffertransport read data :[
+   ], data len: 4
+1610546437555|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610546437555|[INFO]: {default-line}: current wCur: [0], rBegin: [14], rEnd: [14]
+1610546437555|[INFO]: {default-line}: default-lineNBuffertransport read data :[client message], data len: 14
+1610546437555|[INFO]: {default-line}: current wCur: [0], rBegin: [18], rEnd: [18]
+1610546437555|[INFO]: {default-line}: default-lineNBuffertransport read data :[
+   ], data len: 4
+1610546616699|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610546616699|[INFO]: {default-line}: current wCur: [0], rBegin: [14], rEnd: [14]
+1610546616699|[INFO]: {default-line}: default-lineNBuffertransport read data :[client message], data len: 14
+1610546616700|[INFO]: {default-line}: current wCur: [0], rBegin: [18], rEnd: [18]
+1610546616700|[INFO]: {default-line}: default-lineNBuffertransport read data :[
+   ], data len: 4
+1610546782951|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610546782951|[INFO]: {default-line}: current wCur: [0], rBegin: [14], rEnd: [14]
+1610546782951|[INFO]: {default-line}: default-lineNBuffertransport read data :[client message], data len: 14
+1610546782952|[INFO]: {default-line}: current wCur: [0], rBegin: [18], rEnd: [18]
+1610546782952|[INFO]: {default-line}: default-lineNBuffertransport read data :[
+   ], data len: 4
+1610546957933|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610546957933|[INFO]: {default-line}: current wCur: [0], rBegin: [14], rEnd: [14]
+1610546957933|[INFO]: {default-line}: default-lineNBuffertransport read data :[client message], data len: 14
+1610546957933|[INFO]: {default-line}: current wCur: [0], rBegin: [18], rEnd: [18]
+1610546957933|[INFO]: {default-line}: default-lineNBuffertransport read data :[
+   ], data len: 4
+1610546984361|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610546984361|[INFO]: {default-line}: current wCur: [0], rBegin: [14], rEnd: [14]
+1610546984361|[INFO]: {default-line}: default-lineNBuffertransport read data :[client message], data len: 14
+1610546984361|[INFO]: {default-line}: current wCur: [0], rBegin: [18], rEnd: [18]
+1610546984361|[INFO]: {default-line}: default-lineNBuffertransport read data :[	 ], data len: 4
+1610548015916|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610548015917|[INFO]: {default-line}: current wCur: [0], rBegin: [14], rEnd: [14]
+1610548015917|[INFO]: {default-line}: default-lineNBuffertransport read data :[client message], data len: 14
+1610548015917|[INFO]: {default-line}: current wCur: [0], rBegin: [18], rEnd: [18]
+1610548015917|[INFO]: {default-line}: default-lineNBuffertransport read data :[	 ], data len: 4
+1610548399746|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610548399746|[INFO]: {default-line}: current wCur: [0], rBegin: [14], rEnd: [14]
+1610548399746|[INFO]: {default-line}: default-lineNBuffertransport read data :[client message], data len: 14
+1610548399746|[INFO]: {default-line}: current wCur: [0], rBegin: [18], rEnd: [18]
+1610548399746|[INFO]: {default-line}: default-lineNBuffertransport read data :[	 ], data len: 4
+1610548416197|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610548416197|[INFO]: {default-line}: current wCur: [0], rBegin: [14], rEnd: [14]
+1610548416197|[INFO]: {default-line}: default-lineNBuffertransport read data :[client message], data len: 14
+1610548416198|[INFO]: {default-line}: current wCur: [0], rBegin: [18], rEnd: [18]
+1610548416198|[INFO]: {default-line}: default-lineNBuffertransport read data :[	 ], data len: 4
+1610548483649|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610548483649|[INFO]: {default-line}: current wCur: [0], rBegin: [14], rEnd: [14]
+1610548483649|[INFO]: {default-line}: default-lineNBuffertransport read data :[client message], data len: 14
+1610548483649|[INFO]: {default-line}: current wCur: [0], rBegin: [18], rEnd: [18]
+1610548483649|[INFO]: {default-line}: default-lineNBuffertransport read data :[9E ], data len: 4
+1610548500752|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610548500753|[INFO]: {default-line}: current wCur: [0], rBegin: [14], rEnd: [14]
+1610548500753|[INFO]: {default-line}: default-lineNBuffertransport read data :[client message], data len: 14
+1610548500753|[INFO]: {default-line}: current wCur: [0], rBegin: [18], rEnd: [18]
+1610548500753|[INFO]: {default-line}: default-lineNBuffertransport read data :[    ], data len: 4
+1610548516145|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610548516145|[INFO]: {default-line}: current wCur: [0], rBegin: [14], rEnd: [14]
+1610548516145|[INFO]: {default-line}: default-lineNBuffertransport read data :[client message], data len: 14
+1610548516145|[INFO]: {default-line}: current wCur: [0], rBegin: [18], rEnd: [18]
+1610548516145|[INFO]: {default-line}: default-lineNBuffertransport read data :[n   ], data len: 4
+1610865980300|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610886096720|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610886096720|[INFO]: jsonProtocol tunnel built :

@@ -1,0 +1,3 @@
+1610033544414|[INFO]: {default-line}: NBuffertransport build a logHeader
+1610033544414|[INFO]: {default-line}: current wCur: [0], rBegin: [100], rEnd: [1024]
+1610033544414|[INFO]: {default-line}: default-lineNBuffertransport read data :[aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa], data len: 100

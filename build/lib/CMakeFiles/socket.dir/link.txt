@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libsocket.a  CMakeFiles/socket.dir/src/transport/csocket.cpp.o CMakeFiles/socket.dir/src/transport/socketBase.cpp.o CMakeFiles/socket.dir/src/transport/bufferTransport.cpp.o CMakeFiles/socket.dir/src/transport/NioBase.cpp.o CMakeFiles/socket.dir/src/transport/NioVoid.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libsocket.a

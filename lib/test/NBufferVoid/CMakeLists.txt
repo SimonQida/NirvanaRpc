@@ -1,0 +1,5 @@
+SET(targetName NBufferVoid)
+MESSAGE(STATUS "  compile /lib/test/${targetName}")
+aux_source_directory(. srcFiles)
+add_executable(${targetName} ${srcFiles})
+target_link_libraries(${targetName}  PRIVATE ${transportLib})

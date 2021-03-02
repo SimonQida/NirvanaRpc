@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/NBufferVoid.dir/NBufferVoid.cpp.o  -o NBufferVoid ../../src/transport/libtransport.a /usr/local/lib/liblogging.a /usr/local/lib/libfmt.a 
